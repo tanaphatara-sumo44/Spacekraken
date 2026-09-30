@@ -1,0 +1,1230 @@
+{
+ "W": [
+  {
+   "g": 1,
+   "d6": 1,
+   "s": "L",
+   "n": "Pistol",
+   "hit": 4,
+   "dmg": "2",
+   "am": "A8",
+   "ty": "RG"
+  },
+  {
+   "g": 1,
+   "d6": 1,
+   "s": "R",
+   "n": "Shotgun",
+   "hit": 3,
+   "dmg": "5 T2",
+   "am": "A3",
+   "ty": "RG"
+  },
+  {
+   "g": 1,
+   "d6": 2,
+   "s": "L",
+   "n": "MP (3)",
+   "hit": 5,
+   "dmg": "2x2",
+   "am": "A4",
+   "ty": "RG"
+  },
+  {
+   "g": 1,
+   "d6": 2,
+   "s": "R",
+   "n": "Uzi (3)",
+   "hit": 5,
+   "dmg": "3x2",
+   "am": "A2",
+   "ty": "RG"
+  },
+  {
+   "g": 1,
+   "d6": 3,
+   "s": "L",
+   "n": "Riﬂe (3)",
+   "hit": 4,
+   "dmg": "3",
+   "am": "A5",
+   "ty": "RG"
+  },
+  {
+   "g": 1,
+   "d6": 3,
+   "s": "R",
+   "n": "Toxic molotov",
+   "hit": 5,
+   "dmg": "2 EX Toxic",
+   "am": "A2",
+   "ty": "RG"
+  },
+  {
+   "g": 1,
+   "d6": 4,
+   "s": "L",
+   "n": "Knife",
+   "hit": 5,
+   "dmg": "2",
+   "am": "-",
+   "ty": "ML"
+  },
+  {
+   "g": 1,
+   "d6": 4,
+   "s": "R",
+   "n": "Baseball bat (3)",
+   "hit": 3,
+   "dmg": "3 T2",
+   "am": "-",
+   "ty": "ML"
+  },
+  {
+   "g": 1,
+   "d6": 5,
+   "s": "L",
+   "n": "Staff (3)",
+   "hit": 4,
+   "dmg": "2",
+   "am": "-",
+   "ty": "ML"
+  },
+  {
+   "g": 1,
+   "d6": 5,
+   "s": "R",
+   "n": "BB gun",
+   "hit": 4,
+   "dmg": "4x1",
+   "am": "A3",
+   "ty": "RG"
+  },
+  {
+   "g": 1,
+   "d6": 6,
+   "s": "L",
+   "n": "Grenade",
+   "hit": 5,
+   "dmg": "2 EX Fire",
+   "am": "A2",
+   "ty": "RG"
+  },
+  {
+   "g": 1,
+   "d6": 6,
+   "s": "R",
+   "n": "EMP grenade",
+   "hit": 4,
+   "dmg": "3 EX EMP",
+   "am": "A2",
+   "ty": "RG"
+  },
+  {
+   "g": 2,
+   "d6": 1,
+   "s": "L",
+   "n": "Grenade launcher (4)",
+   "hit": 3,
+   "dmg": "4 EX",
+   "am": "A2",
+   "ty": "RG"
+  },
+  {
+   "g": 2,
+   "d6": 1,
+   "s": "R",
+   "n": "Laser riﬂe",
+   "hit": 2,
+   "dmg": "4 Fire",
+   "am": "A2",
+   "ty": "RG"
+  },
+  {
+   "g": 2,
+   "d6": 2,
+   "s": "L",
+   "n": "Bow (4)",
+   "hit": 4,
+   "dmg": "3",
+   "am": "A8",
+   "ty": "RG"
+  },
+  {
+   "g": 2,
+   "d6": 2,
+   "s": "R",
+   "n": "Magnum (3)",
+   "hit": 5,
+   "dmg": "3 AP",
+   "am": "A6",
+   "ty": "RG"
+  },
+  {
+   "g": 2,
+   "d6": 3,
+   "s": "L",
+   "n": "Phosphor bow (4)",
+   "hit": 4,
+   "dmg": "3 Fire",
+   "am": "A5",
+   "ty": "RG"
+  },
+  {
+   "g": 2,
+   "d6": 3,
+   "s": "R",
+   "n": "Katana (5)",
+   "hit": 4,
+   "dmg": "3 AP",
+   "am": "-",
+   "ty": "ML"
+  },
+  {
+   "g": 2,
+   "d6": 4,
+   "s": "L",
+   "n": "Chainsaw (4)",
+   "hit": 3,
+   "dmg": "3 AP",
+   "am": "A4",
+   "ty": "ML"
+  },
+  {
+   "g": 2,
+   "d6": 4,
+   "s": "R",
+   "n": "Whip",
+   "hit": 5,
+   "dmg": "3x2",
+   "am": "-",
+   "ty": "ML"
+  },
+  {
+   "g": 2,
+   "d6": 5,
+   "s": "L",
+   "n": "CO² fire extinguisher",
+   "hit": 4,
+   "dmg": "2 AP Ice",
+   "am": "A4",
+   "ty": "ML"
+  },
+  {
+   "g": 2,
+   "d6": 5,
+   "s": "R",
+   "n": "Assault riﬂe (4)",
+   "hit": 5,
+   "dmg": "2x3",
+   "am": "A4",
+   "ty": "RG"
+  },
+  {
+   "g": 2,
+   "d6": 6,
+   "s": "L",
+   "n": "Elite knife",
+   "hit": 4,
+   "dmg": "3",
+   "am": "-",
+   "ty": "ML"
+  },
+  {
+   "g": 2,
+   "d6": 6,
+   "s": "R",
+   "n": "Heavy hammer (5)",
+   "hit": 4,
+   "dmg": "5 T2 AP",
+   "am": "-",
+   "ty": "ML"
+  },
+  {
+   "g": 3,
+   "d6": 1,
+   "s": "L",
+   "n": "Ice blaster",
+   "hit": 4,
+   "dmg": "5 Ice",
+   "am": "A5",
+   "ty": "RG"
+  },
+  {
+   "g": 3,
+   "d6": 1,
+   "s": "R",
+   "n": "Dart riﬂe (4)",
+   "hit": 4,
+   "dmg": "4 AP Toxic",
+   "am": "A3",
+   "ty": "RG"
+  },
+  {
+   "g": 3,
+   "d6": 2,
+   "s": "L",
+   "n": "Toxic sword (4)",
+   "hit": 3,
+   "dmg": "3 AP Toxic",
+   "am": "A6",
+   "ty": "ML"
+  },
+  {
+   "g": 3,
+   "d6": 2,
+   "s": "R",
+   "n": "Laser gatling (4)",
+   "hit": 2,
+   "dmg": "3x3",
+   "am": "A3",
+   "ty": "RG"
+  },
+  {
+   "g": 3,
+   "d6": 3,
+   "s": "L",
+   "n": "Nano sword (4)",
+   "hit": 3,
+   "dmg": "3 AP",
+   "am": "-",
+   "ty": "ML"
+  },
+  {
+   "g": 3,
+   "d6": 3,
+   "s": "R",
+   "n": "Gauss riﬂe (4)",
+   "hit": 4,
+   "dmg": "5 T2 AP",
+   "am": "A4",
+   "ty": "RG"
+  },
+  {
+   "g": 3,
+   "d6": 4,
+   "s": "L",
+   "n": "Bazooka (4)",
+   "hit": 3,
+   "dmg": "6 EX",
+   "am": "A1",
+   "ty": "RG"
+  },
+  {
+   "g": 3,
+   "d6": 4,
+   "s": "R",
+   "n": "Flamethrower (4)",
+   "hit": 3,
+   "dmg": "4 EX Fire",
+   "am": "A2",
+   "ty": "RG"
+  },
+  {
+   "g": 3,
+   "d6": 5,
+   "s": "L",
+   "n": "Blaster",
+   "hit": 4,
+   "dmg": "5 Fire",
+   "am": "A5",
+   "ty": "RG"
+  },
+  {
+   "g": 3,
+   "d6": 5,
+   "s": "R",
+   "n": "Energy fists (5)",
+   "hit": 4,
+   "dmg": "2x3 AP",
+   "am": "-",
+   "ty": "ML"
+  },
+  {
+   "g": 3,
+   "d6": 6,
+   "s": "L",
+   "n": "MG (4)",
+   "hit": 4,
+   "dmg": "2x3",
+   "am": "A8",
+   "ty": "RG"
+  },
+  {
+   "g": 3,
+   "d6": 6,
+   "s": "R",
+   "n": "Chain whip (5)",
+   "hit": 5,
+   "dmg": "3x3",
+   "am": "-",
+   "ty": "ML"
+  },
+  {
+   "g": 4,
+   "d6": 1,
+   "s": "L",
+   "n": "Zero radiator",
+   "hit": 4,
+   "dmg": "6 Ice",
+   "am": "A8",
+   "ty": "RG"
+  },
+  {
+   "g": 4,
+   "d6": 1,
+   "s": "R",
+   "n": "Acid launcher",
+   "hit": 4,
+   "dmg": "7 Toxic",
+   "am": "A4",
+   "ty": "RG"
+  },
+  {
+   "g": 4,
+   "d6": 2,
+   "s": "L",
+   "n": "Frazetta lance (5)",
+   "hit": 3,
+   "dmg": "5 AP Fire & Ice",
+   "am": "A4",
+   "ty": "ML"
+  },
+  {
+   "g": 4,
+   "d6": 2,
+   "s": "R",
+   "n": "Net thrower (4)",
+   "hit": 5,
+   "dmg": "2 Weaken 3",
+   "am": "A3",
+   "ty": "RG"
+  },
+  {
+   "g": 4,
+   "d6": 3,
+   "s": "L",
+   "n": "Sniper",
+   "hit": 4,
+   "dmg": "7 T2 AP Ice",
+   "am": "A5",
+   "ty": "RG"
+  },
+  {
+   "g": 4,
+   "d6": 3,
+   "s": "R",
+   "n": "Heavy sniper (5)",
+   "hit": 4,
+   "dmg": "8 T2 AP Ice",
+   "am": "A6",
+   "ty": "RG"
+  },
+  {
+   "g": 4,
+   "d6": 4,
+   "s": "L",
+   "n": "Magma sword (5)",
+   "hit": 3,
+   "dmg": "4 Fire",
+   "am": "-",
+   "ty": "ML"
+  },
+  {
+   "g": 4,
+   "d6": 4,
+   "s": "R",
+   "n": "Heavy blaster (4)",
+   "hit": 3,
+   "dmg": "6 Fire",
+   "am": "A4",
+   "ty": "RG"
+  },
+  {
+   "g": 4,
+   "d6": 5,
+   "s": "L",
+   "n": "Death hammer (6)",
+   "hit": 4,
+   "dmg": "5 AP Fire",
+   "am": "-",
+   "ty": "ML"
+  },
+  {
+   "g": 4,
+   "d6": 5,
+   "s": "R",
+   "n": "Rocket hammer (6)",
+   "hit": 4,
+   "dmg": "10 T2 AP Fire",
+   "am": "A3",
+   "ty": "ML"
+  },
+  {
+   "g": 4,
+   "d6": 6,
+   "s": "L",
+   "n": "Railgun (4)",
+   "hit": 3,
+   "dmg": "10 T2 AP",
+   "am": "A2",
+   "ty": "RG"
+  },
+  {
+   "g": 4,
+   "d6": 6,
+   "s": "R",
+   "n": "Missile launcher (4)",
+   "hit": 4,
+   "dmg": "10 EX Fire",
+   "am": "A2",
+   "ty": "RG"
+  },
+  {
+   "g": 5,
+   "d6": 1,
+   "s": "L",
+   "n": "Gatling gun (5)",
+   "hit": 4,
+   "dmg": "3x4",
+   "am": "A2",
+   "ty": "RG"
+  },
+  {
+   "g": 5,
+   "d6": 1,
+   "s": "R",
+   "n": "Mortar",
+   "hit": 4,
+   "dmg": "10 T2 EX AP",
+   "am": "A2",
+   "ty": "RG"
+  },
+  {
+   "g": 5,
+   "d6": 2,
+   "s": "L",
+   "n": "Antimatter blaster (4)",
+   "hit": 4,
+   "dmg": "8 AP",
+   "am": "A4",
+   "ty": "RG"
+  },
+  {
+   "g": 5,
+   "d6": 2,
+   "s": "R",
+   "n": "Nano net thrower",
+   "hit": 5,
+   "dmg": "6 AP Weaken 4",
+   "am": "A3",
+   "ty": "RG"
+  },
+  {
+   "g": 5,
+   "d6": 3,
+   "s": "L",
+   "n": "Micro nuke (4)",
+   "hit": 3,
+   "dmg": "8 EX Fire",
+   "am": "A2",
+   "ty": "RG"
+  },
+  {
+   "g": 5,
+   "d6": 3,
+   "s": "R",
+   "n": "Particle riﬂe (4)",
+   "hit": 4,
+   "dmg": "10 T2 IS AP",
+   "am": "A3",
+   "ty": "RG"
+  },
+  {
+   "g": 5,
+   "d6": 4,
+   "s": "L",
+   "n": "Ion blaster (4)",
+   "hit": 3,
+   "dmg": "11 EMP",
+   "am": "A5",
+   "ty": "RG"
+  },
+  {
+   "g": 5,
+   "d6": 4,
+   "s": "R",
+   "n": "Antimatter pistol",
+   "hit": 4,
+   "dmg": "7 AP",
+   "am": "A4",
+   "ty": "RG"
+  },
+  {
+   "g": 5,
+   "d6": 5,
+   "s": "L",
+   "n": "Nano claws (4)",
+   "hit": 4,
+   "dmg": "6 AP",
+   "am": "-",
+   "ty": "ML"
+  },
+  {
+   "g": 5,
+   "d6": 5,
+   "s": "R",
+   "n": "Plasma whip (6)",
+   "hit": 5,
+   "dmg": "3x4 AP Fire",
+   "am": "-",
+   "ty": "ML"
+  },
+  {
+   "g": 5,
+   "d6": 6,
+   "s": "L",
+   "n": "Ice claws (4)",
+   "hit": 4,
+   "dmg": "6 AP Ice",
+   "am": "A4",
+   "ty": "ML"
+  },
+  {
+   "g": 5,
+   "d6": 6,
+   "s": "R",
+   "n": "Poison claws (4)",
+   "hit": 4,
+   "dmg": "6 AP Toxic",
+   "am": "A4",
+   "ty": "ML"
+  },
+  {
+   "g": 6,
+   "d6": 1,
+   "s": "L",
+   "n": "Hell claws (5)",
+   "hit": 4,
+   "dmg": "7 AP Fire",
+   "am": "-",
+   "ty": "ML"
+  },
+  {
+   "g": 6,
+   "d6": 1,
+   "s": "R",
+   "n": "Heavy cannon (5)",
+   "hit": 3,
+   "dmg": "9 IS AP",
+   "am": "A3",
+   "ty": "RG"
+  },
+  {
+   "g": 6,
+   "d6": 2,
+   "s": "L",
+   "n": "Mjölnir (6)",
+   "hit": 4,
+   "dmg": "8 AP IS",
+   "am": "A2",
+   "ty": "ML"
+  },
+  {
+   "g": 6,
+   "d6": 2,
+   "s": "R",
+   "n": "Gravity net thrower",
+   "hit": 5,
+   "dmg": "8 AP Weaken 6",
+   "am": "A3",
+   "ty": "RG"
+  },
+  {
+   "g": 6,
+   "d6": 3,
+   "s": "L",
+   "n": "ION grenade Launcher (4)",
+   "hit": 3,
+   "dmg": "10 EX EMP",
+   "am": "A2",
+   "ty": "RG"
+  },
+  {
+   "g": 6,
+   "d6": 3,
+   "s": "R",
+   "n": "Heavy gauss (5)",
+   "hit": 3,
+   "dmg": "12 T2 IS AP",
+   "am": "A2",
+   "ty": "RG"
+  },
+  {
+   "g": 6,
+   "d6": 4,
+   "s": "L",
+   "n": "Heavy gatling (6)",
+   "hit": 4,
+   "dmg": "3x5 AP",
+   "am": "A2",
+   "ty": "RG"
+  },
+  {
+   "g": 6,
+   "d6": 4,
+   "s": "R",
+   "n": "Zero blaster (4)",
+   "hit": 4,
+   "dmg": "10 AP Ice",
+   "am": "A4",
+   "ty": "RG"
+  },
+  {
+   "g": 6,
+   "d6": 5,
+   "s": "L",
+   "n": "Heavy railgun (4)",
+   "hit": 3,
+   "dmg": "12 T2 AP",
+   "am": "A3",
+   "ty": "RG"
+  },
+  {
+   "g": 6,
+   "d6": 5,
+   "s": "R",
+   "n": "Hell sword (6)",
+   "hit": 3,
+   "dmg": "10 T2 AP Fire",
+   "am": "-",
+   "ty": "ML"
+  },
+  {
+   "g": 6,
+   "d6": 6,
+   "s": "L",
+   "n": "Sonequa grenade",
+   "hit": 4,
+   "dmg": "8 EX AP Toxic",
+   "am": "A2",
+   "ty": "RG"
+  },
+  {
+   "g": 6,
+   "d6": 6,
+   "s": "R",
+   "n": "Cluster missile",
+   "hit": 3,
+   "dmg": "10 EX AP Fire",
+   "am": "A1",
+   "ty": "RG"
+  }
+ ],
+ "I": [
+  {
+   "g": 1,
+   "d6": 1,
+   "s": "L",
+   "n": "Stimpack",
+   "e": "U: Regenerate 3 HP"
+  },
+  {
+   "g": 1,
+   "d6": 1,
+   "s": "R",
+   "n": "Scanner",
+   "e": "Reroll Minion spawn check once per combat"
+  },
+  {
+   "g": 1,
+   "d6": 2,
+   "s": "L",
+   "n": "Steel shield",
+   "e": "Armor 0.5"
+  },
+  {
+   "g": 1,
+   "d6": 2,
+   "s": "R",
+   "n": "Chocolate",
+   "e": "U2: Regenerate 2 HP"
+  },
+  {
+   "g": 1,
+   "d6": 3,
+   "s": "L",
+   "n": "Steel helmet",
+   "e": "Armor 0.5"
+  },
+  {
+   "g": 1,
+   "d6": 3,
+   "s": "R",
+   "n": "Space garlic",
+   "e": "The Predator Skill won’t affect this Hero"
+  },
+  {
+   "g": 1,
+   "d6": 4,
+   "s": "L",
+   "n": "Kevlar jacket",
+   "e": "Armor 0.5"
+  },
+  {
+   "g": 1,
+   "d6": 4,
+   "s": "R",
+   "n": "Whiskey",
+   "e": "U2: Regenerate 3 HP, -1 XP"
+  },
+  {
+   "g": 1,
+   "d6": 5,
+   "s": "L",
+   "n": "O2 tank",
+   "e": "Stores up to two O2 units"
+  },
+  {
+   "g": 1,
+   "d6": 5,
+   "s": "R",
+   "n": "Defibrillator",
+   "e": "U3: Heal an unconscious Hero to 1 HP"
+  },
+  {
+   "g": 1,
+   "d6": 6,
+   "s": "L",
+   "n": "Autohack",
+   "e": "U5: +2 to Bulkhead opening test"
+  },
+  {
+   "g": 1,
+   "d6": 6,
+   "s": "R",
+   "n": "Mobile transmitter",
+   "e": "Increase Location's teleporter range by 1"
+  },
+  {
+   "g": 2,
+   "d6": 1,
+   "s": "L",
+   "n": "Medkit",
+   "e": "U: Regenerate 5 HP"
+  },
+  {
+   "g": 2,
+   "d6": 1,
+   "s": "R",
+   "n": "Boardgame collection",
+   "e": "U: Gain 2 XP"
+  },
+  {
+   "g": 2,
+   "d6": 2,
+   "s": "L",
+   "n": "Compound helmet",
+   "e": "Armor 1"
+  },
+  {
+   "g": 2,
+   "d6": 2,
+   "s": "R",
+   "n": "Backpack (notable as BP)",
+   "e": "Doesn't occupy a slot, grants 1 extra slot"
+  },
+  {
+   "g": 2,
+   "d6": 3,
+   "s": "L",
+   "n": "Compound jacket",
+   "e": "Armor 1"
+  },
+  {
+   "g": 2,
+   "d6": 3,
+   "s": "R",
+   "n": "Welding torch",
+   "e": "U6: Close 1 breach at your area"
+  },
+  {
+   "g": 2,
+   "d6": 4,
+   "s": "L",
+   "n": "Flash shield",
+   "e": "Flash Shield A-3/1"
+  },
+  {
+   "g": 2,
+   "d6": 4,
+   "s": "R",
+   "n": "Noise box",
+   "e": "U2: +2 bonus for escape test"
+  },
+  {
+   "g": 2,
+   "d6": 5,
+   "s": "L",
+   "n": "Energy shield",
+   "e": "Energy Shield B-2/1"
+  },
+  {
+   "g": 2,
+   "d6": 5,
+   "s": "R",
+   "n": "Tool set",
+   "e": "+1 bonus for unjam checks"
+  },
+  {
+   "g": 2,
+   "d6": 6,
+   "s": "L",
+   "n": "O2 hypercell",
+   "e": "U: Regenerate five O2 units"
+  },
+  {
+   "g": 2,
+   "d6": 6,
+   "s": "R",
+   "n": "Exotic fruits",
+   "e": "U5: Regenerate d6-3HP (may harm you)"
+  },
+  {
+   "g": 3,
+   "d6": 1,
+   "s": "L",
+   "n": "Nanokit",
+   "e": "U: Regenerate 7 HP"
+  },
+  {
+   "g": 3,
+   "d6": 1,
+   "s": "R",
+   "n": "Metal detector",
+   "e": "Reroll Treasure roll once if found nothing"
+  },
+  {
+   "g": 3,
+   "d6": 2,
+   "s": "L",
+   "n": "Flash grenades",
+   "e": "U2: +3 bonus for your initiative check"
+  },
+  {
+   "g": 3,
+   "d6": 2,
+   "s": "R",
+   "n": "Smoke grenades",
+   "e": "U2: All Enemy hit checks +1 for one turn"
+  },
+  {
+   "g": 3,
+   "d6": 3,
+   "s": "L",
+   "n": "Military jacket",
+   "e": "Armor 2"
+  },
+  {
+   "g": 3,
+   "d6": 3,
+   "s": "R",
+   "n": "PG thunder drink",
+   "e": "U3: Regenerate full HP, -3 XP"
+  },
+  {
+   "g": 3,
+   "d6": 4,
+   "s": "L",
+   "n": "Digital lockpick",
+   "e": "U5: +4 to Bulkhead opening test"
+  },
+  {
+   "g": 3,
+   "d6": 4,
+   "s": "R",
+   "n": "PSI bracelet",
+   "e": "+1 PSI bonus"
+  },
+  {
+   "g": 3,
+   "d6": 5,
+   "s": "L",
+   "n": "O2 twin tank",
+   "e": "Stores up to four O2 units"
+  },
+  {
+   "g": 3,
+   "d6": 5,
+   "s": "R",
+   "n": "Bracelet pad",
+   "e": "+1 bonus for your Tech checks"
+  },
+  {
+   "g": 3,
+   "d6": 6,
+   "s": "L",
+   "n": "Heavy energy shield",
+   "e": "Energy Shield B-3/1"
+  },
+  {
+   "g": 3,
+   "d6": 6,
+   "s": "R",
+   "n": "Inﬂatable decoy",
+   "e": "U4: +2 bonus for your initiative check"
+  },
+  {
+   "g": 4,
+   "d6": 1,
+   "s": "L",
+   "n": "Mobile Med Station",
+   "e": "U: Regenerate the entire HP of one Hero"
+  },
+  {
+   "g": 4,
+   "d6": 1,
+   "s": "R",
+   "n": "German police shield",
+   "e": "3 Armor only against Melee attacks"
+  },
+  {
+   "g": 4,
+   "d6": 2,
+   "s": "L",
+   "n": "Shield charger",
+   "e": "Restore 2 Shield each turn"
+  },
+  {
+   "g": 4,
+   "d6": 2,
+   "s": "R",
+   "n": "Short range teleporter",
+   "e": "U2: +4 bonus for escape test"
+  },
+  {
+   "g": 4,
+   "d6": 3,
+   "s": "L",
+   "n": "Heavy ﬂash shield",
+   "e": "Flash Shield A-6/2"
+  },
+  {
+   "g": 4,
+   "d6": 3,
+   "s": "R",
+   "n": "Holo decoy",
+   "e": "U2: +4 bonus for your initiative check"
+  },
+  {
+   "g": 4,
+   "d6": 4,
+   "s": "L",
+   "n": "Military shield",
+   "e": "Armor 2,5"
+  },
+  {
+   "g": 4,
+   "d6": 4,
+   "s": "R",
+   "n": "German tool set",
+   "e": "+2 bonus for unjam checks"
+  },
+  {
+   "g": 4,
+   "d6": 5,
+   "s": "L",
+   "n": "O2 triple tank",
+   "e": "Stores up to five O2 units"
+  },
+  {
+   "g": 4,
+   "d6": 5,
+   "s": "R",
+   "n": "Talisman",
+   "e": "U3: Reroll one of your attack dice rolls"
+  },
+  {
+   "g": 4,
+   "d6": 6,
+   "s": "L",
+   "n": "Nanobots",
+   "e": "U: Regenerate each Hero 4 HP"
+  },
+  {
+   "g": 4,
+   "d6": 6,
+   "s": "R",
+   "n": "Healing lotion",
+   "e": "U2: Regenerate each Hero 2 HP"
+  },
+  {
+   "g": 5,
+   "d6": 1,
+   "s": "L",
+   "n": "Ultra energy shield",
+   "e": "Energy Shield B-6/2"
+  },
+  {
+   "g": 5,
+   "d6": 1,
+   "s": "R",
+   "n": "Mobile eco sphere",
+   "e": "Hell conditions are treated as no amosphere"
+  },
+  {
+   "g": 5,
+   "d6": 2,
+   "s": "L",
+   "n": "Ultra ﬂash shield",
+   "e": "Flash Shield A-8/2"
+  },
+  {
+   "g": 5,
+   "d6": 2,
+   "s": "R",
+   "n": "Heavy smoke grenades",
+   "e": "U3: All Enemy hit checks +2 for one turn"
+  },
+  {
+   "g": 5,
+   "d6": 3,
+   "s": "L",
+   "n": "Heavy charger",
+   "e": "Restore 3 shield each turn"
+  },
+  {
+   "g": 5,
+   "d6": 3,
+   "s": "R",
+   "n": "Guardian shield",
+   "e": "Armor 3"
+  },
+  {
+   "g": 5,
+   "d6": 4,
+   "s": "L",
+   "n": "O2 transtank",
+   "e": "Stores up to six O2 units"
+  },
+  {
+   "g": 5,
+   "d6": 4,
+   "s": "R",
+   "n": "Berserk drugs",
+   "e": "U3: +2 Melee for one turn for everybody"
+  },
+  {
+   "g": 5,
+   "d6": 5,
+   "s": "L",
+   "n": "Nano drugs",
+   "e": "U2: Regenerate each Hero 5 HP"
+  },
+  {
+   "g": 5,
+   "d6": 5,
+   "s": "R",
+   "n": "Painkiller",
+   "e": "U3: +2 Armor for one turn for everybody"
+  },
+  {
+   "g": 5,
+   "d6": 6,
+   "s": "L",
+   "n": "Nano helmet",
+   "e": "Armor 4"
+  },
+  {
+   "g": 5,
+   "d6": 6,
+   "s": "R",
+   "n": "Sniper drugs",
+   "e": "U3: +2 Ranged for one turn for everybody"
+  },
+  {
+   "g": 6,
+   "d6": 1,
+   "s": "L",
+   "n": "Super drugs",
+   "e": "U2: Regenerate each Hero 7 HP, -2XP"
+  },
+  {
+   "g": 6,
+   "d6": 1,
+   "s": "R",
+   "n": "Shield station",
+   "e": "U2: All Heroes +3 Armor for one turn"
+  },
+  {
+   "g": 6,
+   "d6": 2,
+   "s": "L",
+   "n": "O2 quantum",
+   "e": "Stores up to eight O2 units"
+  },
+  {
+   "g": 6,
+   "d6": 2,
+   "s": "R",
+   "n": "Oxygen bubble",
+   "e": "U4: No need to pay Oxygen in this combat"
+  },
+  {
+   "g": 6,
+   "d6": 3,
+   "s": "L",
+   "n": "Nano jacket",
+   "e": "Armor 5"
+  },
+  {
+   "g": 6,
+   "d6": 3,
+   "s": "R",
+   "n": "Alien shield",
+   "e": "Energy Shield B-6/3"
+  },
+  {
+   "g": 6,
+   "d6": 4,
+   "s": "L",
+   "n": "Omega shield",
+   "e": "Energy Shield B-8/2"
+  },
+  {
+   "g": 6,
+   "d6": 4,
+   "s": "R",
+   "n": "Matrix shield",
+   "e": "Flash Shield A-8/3"
+  },
+  {
+   "g": 6,
+   "d6": 5,
+   "s": "L",
+   "n": "Omega charger",
+   "e": "Restore 4 Shield each turn"
+  },
+  {
+   "g": 6,
+   "d6": 5,
+   "s": "R",
+   "n": "PSI helmet",
+   "e": "+2 PSI bonus"
+  },
+  {
+   "g": 6,
+   "d6": 6,
+   "s": "L",
+   "n": "Alpha shield",
+   "e": "Flash Shield A-10/2"
+  },
+  {
+   "g": 6,
+   "d6": 6,
+   "s": "R",
+   "n": "Crystal of wisdom",
+   "e": "U: Gain a Hero Level upgrade for free"
+  }
+ ]
+}

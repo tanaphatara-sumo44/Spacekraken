@@ -1,0 +1,488 @@
+[
+ {
+  "name": "Quinn",
+  "role": "Leader",
+  "story": "Quinn was born as a member of high society. His parents were politicians in the United States, but he decided against following in their footsteps. He doesn‘t believe that governments will ever change, and thus he set up a small crew with whom to escape into space, to survive and build up his own society. He’s the kind of leader that you may not like, but trust. He drills you day and night, but instinctively you always know it‘s for the sake of the crew‘s survival.",
+  "at": {
+   "str": 4,
+   "agi": 4,
+   "mel": 2,
+   "ran": 2,
+   "tec": 1,
+   "cha": 3
+  },
+  "items": {
+   "R": "Rifl e (3) RG 4+, 3, A5 (2¢)",
+   "L": "Pistol RG 4+, 2, A8 (2¢)"
+  },
+  "traits": [
+   "Leader",
+   "Decadence"
+  ]
+ },
+ {
+  "name": "Yuna",
+  "role": "Ranger",
+  "story": "Yuna was a ranger in the African deserts. She learned what it took to survive in hot, dry and rough terrain. As Dubai searched for highly skilled rangers for space missions, she applied and was hired. She misses Earth and its expansive deserts, but her survival instinct is paramount, and she will survive even to the end of the universe. Yuna’s constitution is also much stronger than you would ever suppose for such a slender girl. And if you want to see her smile, just give her something green as a gift.",
+  "at": {
+   "str": 4,
+   "agi": 3,
+   "mel": 4,
+   "ran": 2,
+   "tec": 1,
+   "cha": 2
+  },
+  "items": {
+   "R": "Rifl e (3) RG 4+, 3, A5 (2¢)",
+   "L": "Staff (3) ML 4+, 2 (2¢)"
+  },
+  "traits": [
+   "Carrier",
+   "Weakness Ice"
+  ]
+ },
+ {
+  "name": "Jessica",
+  "role": "Medic",
+  "story": "From the moment she lost her big sister to cancer, Jessica studied everything she could fi nd concerning diseases and medical solutions. She was subsequently able to join the European Environment, Space, and Technology (EEST) research department as the youngest trainee in history. Now she’s going to be the youngest Crew Member in space. She usually wears her bright blond hair quite short, and even if she’s been awake for days and covered in blood, she always looks awesome.",
+  "at": {
+   "str": 3,
+   "agi": 2,
+   "mel": 1,
+   "ran": 1,
+   "tec": 4,
+   "cha": 5
+  },
+  "items": {
+   "R": "Rifl e (3) RG 4+, 3, A5 (2¢)",
+   "1": "Stimpack / U: Regenerate 3 HP (2¢)"
+  },
+  "traits": [
+   "Medic",
+   "Sensitive"
+  ]
+ },
+ {
+  "name": "Ray",
+  "role": "Engineer",
+  "story": "Ray loves everything about high-tech equipment, and worked as an engineer at the Nevada Propulsion Laboratory. He even built his own little spaceship in secret, using funds collected by a wealthy pacifi st corporation. Unfortunately, the spaceship exploded during the fi rst engine test. Since that day, he has determined to stay undercover and fi nd a way to somehow join a space mission. He swears the incident was caused by a deliberate act of sabotage, but it would be best if you didn’t ask.",
+  "at": {
+   "str": 3,
+   "agi": 4,
+   "mel": 1,
+   "ran": 1,
+   "tec": 5,
+   "cha": 2
+  },
+  "items": {
+   "R": "MP (3) RG 5+, 2x2, A4 (2¢)",
+   "L": "Knife ML 5+, 2 (2¢)",
+   "1": "O2 Tank / stores two O2 (2¢)"
+  },
+  "traits": []
+ },
+ {
+  "name": "Murphy",
+  "role": "Sniper",
+  "story": "Not much is known about Murphy‘s biography. He was born in 1996 somewhere in Europe, and is on record for being hired as a mercenary for different tasks. Somehow, he was able to join a team who left the dying Earth.There is evidence indicating that he lost his family as a child in a house fi re, and due to that fact he never became close with others; willing to leave Earth without regrets. Psychological tests did not spot any issues except a phobia against fi re. He should integrate well in your team and will be a sniper on whom you can rely.",
+  "at": {
+   "str": 4,
+   "agi": 3,
+   "mel": 1,
+   "ran": 3,
+   "tec": 3,
+   "cha": 2
+  },
+  "items": {
+   "R": "Bow (4) RG 4+, 3, A8 (5¢)"
+  },
+  "traits": [
+   "Sniper",
+   "Weakness Fire"
+  ]
+ },
+ {
+  "name": "Mila",
+  "role": "Gunslinger",
+  "story": "Mila is amazing….and somewhat disturbing. She‘s been called a maniac, and is not the brightest Crew Member. She doesn‘t even know how to hold a knife the right way round. But if you give her a fi rearm, she can handle it like nobody else. She is never more happy than those moments when she can blast something - or somebody - into smithereens. Avoid talking with her about her childhood. She is also very beautiful with eyes as blue as the ocean, but her strange personality makes it impossible to become friends with her. Yet, you will never see her have an issue with following your commands, no matter the circumstances.",
+  "at": {
+   "str": 4,
+   "agi": 3,
+   "mel": 1,
+   "ran": 6,
+   "tec": 3,
+   "cha": 1
+  },
+  "items": {
+   "R": "Blaster RG 4+, 5 Fire, A5 (12¢)"
+  },
+  "traits": [
+   "Maniac",
+   "Burst",
+   "Slow-learner"
+  ]
+ },
+ {
+  "name": "Paul",
+  "role": "Fighter",
+  "story": "Paul comes from Russia. He was born in a small reserve park and labored there as a woodworker. Unfortunately his farm was taken over by the military to build another launch and assembly base for spaceships. As he watched the last of the wild animals leave the reserve, he decided to leave as well. He will fi ght like a berserker to protect his team.",
+  "at": {
+   "str": 4,
+   "agi": 4,
+   "mel": 4,
+   "ran": 1,
+   "tec": 1,
+   "cha": 2
+  },
+  "items": {
+   "R": "Chainsaw (4) ML 3+, 3 AP, A4 (5¢)"
+  },
+  "traits": [
+   "Chain attack",
+   "Aggressive"
+  ]
+ },
+ {
+  "name": "Lex",
+  "role": "Tank",
+  "story": "She‘s not the fastest thinker, nor the best gunner and certainly not the best fi ghter, but she will never ever leave you behind. Physically and mentally she’s strong, and will be the foundation for a team that holds together no matter what happens. She also knows how to survive in a rough environment. Lex‘s father was a soldier leaving Earth with one of the colony ships, which later hit the Death Sphere. Her mother, a doctor, passed away when Lex was a child. She is used to being always surrounded by friends and hates to be alone.",
+  "at": {
+   "str": 6,
+   "agi": 2,
+   "mel": 2,
+   "ran": 2,
+   "tec": 1,
+   "cha": 3
+  },
+  "items": {
+   "R": "Rifl e (3) RG 4+, 3, A5 (2¢)",
+   "L": "Steel Shield / Armor 0.5 (2¢)",
+   "1": "Kevlar Jacket / Armor 0.5 (2¢)"
+  },
+  "traits": [
+   "Bodyguard",
+   "Team player"
+  ]
+ },
+ {
+  "name": "Ian",
+  "role": "Medic",
+  "story": "A renowned Xenobiologist intent on studying the Kraken species as well as any other life forms he might encounter in his travels. His peers detest his fascination and enthusiasm for the Kraken - no doubt clouded by their hatred for it. But he will always have a clear sight and will analytically investigate each alien species upon fi rst contact. Furthermore, he‘s a trained medic, who will keep your crew at the ready in case of combat. He is not interested in women and prefers to work together with men. Take good care that he returns from his discovery trips.",
+  "at": {
+   "str": 4,
+   "agi": 3,
+   "mel": 4,
+   "ran": 1,
+   "tec": 3,
+   "cha": 1
+  },
+  "items": {
+   "R": "Whip ML 5+, 3x2 (5¢)",
+   "1": "Medkit / U: Regenerate 5 HP (5¢) Weakness",
+   "2": "Medkit / U: Regenerate 5 HP (5¢)"
+  },
+  "traits": [
+   "Medic",
+   "Weakness Toxic"
+  ]
+ },
+ {
+  "name": "Brent",
+  "role": "Sniper",
+  "story": "Before the creation of artifi cial intelligence was outlawed, one Czech mathematician had managed to grow the fi rst - and also the last - android mankind would witness. That one android was far more intelligent than any man, even though it was unable to process or understand emotions. Its reactions were at times quite strange: suddenly shutting down to reboot again for no apparent reasons. If you hire it, be aware its spare parts may become expensive and quickly drain your wallet. However, its sniper skills are stunning and totally worth the added cost. You should also know it is fascinated by all biological life forms, especially watching them die and dissecting them for further insights.",
+  "at": {
+   "str": 6,
+   "agi": 1,
+   "mel": 1,
+   "ran": 6,
+   "tec": 1,
+   "cha": 1
+  },
+  "items": {
+   "R": "Assault rifl e (4) RG 5+, 2x3, A3 (5¢)",
+   "L": "Assault rifl e (4) RG 5+, 2x3, A3 (5¢)"
+  },
+  "traits": [
+   "Dark soul",
+   "Two handed",
+   "Decadence",
+   "Slow-learner"
+  ]
+ },
+ {
+  "name": "Herman",
+  "role": "Leader",
+  "story": "Born in Germany Maxime Herman (call sign Herman) commandeered a squad to investigate the Kraken after it was reported dead. He watched his comrades die when the Kraken suddenly rose again, to move to the ocean, crawling over everything in its path. That day, he swore an oath to hunt it down and avenge his fallen friends. During his journey in space, he will be the most devoted follower of Adam‘s resistance movement. He has awesome leadership skills and the only thing bigger than his loyalty for his crew is his hate of the Kraken. He will never leave a soul behind except during the fi nal fi ght against the Kraken. To hunt it down he is willing to pay any price.",
+  "at": {
+   "str": 2,
+   "agi": 2,
+   "mel": 2,
+   "ran": 2,
+   "tec": 2,
+   "cha": 6
+  },
+  "items": {
+   "R": "Elite knife ML 4+, 3 (5¢)",
+   "L": "Stimpack / U: Regenerate 3 HP (2¢)",
+   "1": "Whiskey / U2: Regenerate 3 HP, -1 XP (2¢)"
+  },
+  "traits": [
+   "Leader",
+   "Aggressive"
+  ]
+ },
+ {
+  "name": "Liu",
+  "role": "Psi",
+  "story": "Born in China, Liu worked as psychologist and anthropologist searching for new fi elds of research. After the fi rst plans formed to leave the dying Earth behind, she came up with a project to explore how such a dramatic fl ight into the unknown would infl uence the crew. With a therapy dog Jasper as her companion, she’s now waiting to board the fi rst ship willing to hire a psychologist. She hopes to return to Earth and her girlfriends in a few years. It‘s still a debate whether she used her PSI powers or her stunning charisma to get her the position on the fl ight into space. You should know that she absolutely detests the usage of handguns.",
+  "at": {
+   "str": 1,
+   "agi": 5,
+   "mel": 1,
+   "ran": 1,
+   "tec": 1,
+   "cha": 7
+  },
+  "items": {
+   "L": "PSI bracelet / +1 PSI bonus (12¢)"
+  },
+  "traits": [
+   "PSI Powers LV1",
+   "Decadence"
+  ]
+ },
+ {
+  "name": "Tedadar",
+  "role": "Support",
+  "story": "Tedadar was born in Germany 42 years ago. He´s one of a few scientists researching theoretical new technology. Now he is committed to getting into space to help discover new worlds and study any alien equipment and ships that are found. He won‘t leave his wife and two children behind but is willing to sacrifi ce this for the bigger goal to push mankind forward.",
+  "at": {
+   "str": 6,
+   "agi": 2,
+   "mel": 1,
+   "ran": 2,
+   "tec": 4,
+   "cha": 1
+  },
+  "items": {
+   "R": "Laser rifl e RG 2+, 4 Fire, A2 (5¢)",
+   "1": "Backpack / +1 slot *note as ‘BP‘ (5¢) Weakness"
+  },
+  "traits": [
+   "Teleporter",
+   "Weakness Toxic"
+  ]
+ },
+ {
+  "name": "Deniz",
+  "role": "Support",
+  "story": "As soon as Deniz heard about the L.E.A.P. Initiative, he did everything he could to become a Crew Member. His stint as an Ethics and Human History teacher taught him how to communicate with small irrational lifeforms, but this task would grow into so much more. Due to a gene defect, he would never be able to aim or be any use in combat against hostile life forms, but he is determined to use his wits, knowledge and his expertise in strategy to support his crew in every strategic or educational way he can.",
+  "at": {
+   "str": 4,
+   "agi": 2,
+   "mel": 2,
+   "ran": 1,
+   "tec": 5,
+   "cha": 2
+  },
+  "items": {
+   "R": "S",
+   "L": "M",
+   "1": "Backpack / +1 slot *note as ‘BP‘ (5¢) E",
+   "2": "Noise box / U2: +2 bonus for escape test (5¢) ) ) T"
+  },
+  "traits": [
+   "Replenishment",
+   "Supporter",
+   "Team player",
+   "Weakness Fire"
+  ]
+ },
+ {
+  "name": "Nibiru",
+  "role": "Support",
+  "story": "Born 2012 in Germany, Nibiru recently applied for an engineer job at L.E.A.P. and received a ticket. Since leaving Earth he realized his Judo skills will also be useful. Now it ’s time to fi nd out where his short legs will carry him. *Short-legged: If your crew try to escape from a combat the escape check will be one point more diffi cult. If you decide to sacrifi ce a Crew Member during your escape attempt, you must choose him fi rst.",
+  "at": {
+   "str": 4,
+   "agi": 1,
+   "mel": 3,
+   "ran": 1,
+   "tec": 5,
+   "cha": 2
+  },
+  "items": {
+   "R": "Nano harpoon RG 3+, 4 IS, A2 (12¢)",
+   "L": "Scrap metal spear ML 5+, 3 AP (FOR FREE)",
+   "1": "Scanner Scanner Scanner / / / Reroll Reroll Reroll Minion Minion Minion spawn spawn spawn check check check once once once per per per c.(2¢) c.(2 c.(2¢ E E E ¢) ) Short-legged*",
+   "2": "T T T",
+   "3": "I I I"
+  },
+  "traits": []
+ },
+ {
+  "name": "Markus",
+  "role": "Tank",
+  "story": "Markus seems to have background knowledge about what is going on with the Space Kraken, but he usually doesn‘t talk about it. When asked, he just states that he developed some kind of role-playing game many years ago, which had an insane amount of similarities with the universe in which we are now living. Furthermore he has exceptional skills for a good crew: -He is damn strong and always protects the weak, no matter the price. -His melee skills turn any baseball bat or rod of steel into a deadly weapon. -Markus loves board games and will entertain the entire crew with them.",
+  "at": {
+   "str": 8,
+   "agi": 1,
+   "mel": 6,
+   "ran": 1,
+   "tec": 1,
+   "cha": 1
+  },
+  "items": {
+   "R": "Heavy hammer (5) ML 4+, 5 T2 AP (5¢)",
+   "1": "Compound helmet / Armor 1 (5¢)",
+   "2": "Kevlar jacket / Armor 0.5 (2¢)",
+   "3": "Dutch Oven / U4: Regenerate 1 HP (2¢)",
+   "L": "Advanced"
+  },
+  "traits": [
+   "Bodyguard",
+   "muscles",
+   "Weakness Toxic",
+   "Aggressive"
+  ]
+ },
+ {
+  "name": "Bashier",
+  "role": "Support",
+  "story": "Bashier has travelled around the globe and has lived in South Africa, Eastern Europe, and Germany. He previously served in the Navy and later worked as a mercenary combat diver. He always worked in teams of at least 4 and so developed supporting skills. Speaking multiple languages also provided him a great benefi t during the selection process. Now he waits to board one of the last ships leaving Earth. Bashier lost his entire family during the war and will not leave anybody behind because of that.",
+  "at": {
+   "str": 4,
+   "agi": 3,
+   "mel": 3,
+   "ran": 2,
+   "tec": 3,
+   "cha": 1
+  },
+  "items": {
+   "R": "Laser rifl e RG 2+, 4 Fire, A2 (5¢)",
+   "1": "Kevlar jacket / Armor 0.5 (2¢)",
+   "2": "Nanokit / U: Regenerate 7 HP (12¢)",
+   "L": "Chocolate / U2: Regenerate 2 HP (2¢)"
+  },
+  "traits": [
+   "Supporter",
+   "Team player"
+  ]
+ },
+ {
+  "name": "Ben The Unhinged",
+  "role": "Fighter",
+  "story": "Ben the Unhinged has no friends. This suits him fi ne. He only likes meeting others in combat while swinging his long sword. How Ben managed to get aboard the spacecraft is anyone‘s guess, but it wasn‘t through diplomacy. Most likely, he simply pushed his way to the front of the queue. This temperament does have its benefi ts; when you require a hole to be made in the enemy line, he‘s your man. When diplomacy stops and the violence begins, he‘ll fetch his sword while you hold his beer. Reliably aggressive and ultimately expendable. Just don‘t expect him to use anything more complicated than a sharp piece of steel.",
+  "at": {
+   "str": 3,
+   "agi": 4,
+   "mel": 8,
+   "ran": 1,
+   "tec": 1,
+   "cha": 1
+  },
+  "items": {
+   "R": "Custom long sword (3) ML 4+, 3 AP (9¢)",
+   "1": "Combat",
+   "2": "Advanced",
+   "3": "Weakness"
+  },
+  "traits": [
+   "Aggressive",
+   "Combat refl exes",
+   "muscles",
+   "Weakness toxic"
+  ]
+ },
+ {
+  "name": "Ewar And Aleora",
+  "role": "Psi",
+  "story": "These siblings fi rst appeared during the second world war on Earth. It seems they somehow travel through space and time and can appear and disappear without warning. They are young, but also ultra-experienced, and they possess PSI Powers. They are not human, even though they look like normal kids. It is known that they try to keep the future in balance, but they never talk about their intentions in detail. It is unknown what will happen if their mission fails. *Team of two: As long as they have full health points they can increase their PSI skill Level by 1 point. If they are wounded their PSI skill gets lowered by 1 point.",
+  "at": {
+   "str": 1,
+   "agi": 3,
+   "mel": 1,
+   "ran": 1,
+   "tec": 4,
+   "cha": 6
+  },
+  "items": {
+   "R": "Chocolate / U2: Regenerate 2 HP (2¢)"
+  },
+  "traits": [
+   "PSI Powers LV2",
+   "Weakness Fire",
+   "of two* see story"
+  ]
+ },
+ {
+  "name": "Nestor Gravedigger",
+  "role": "Assassin",
+  "story": "Nestor was part of the Delta Forces. His Japanese stepmother taught him the samurai code of honor. On the battlefi eld, he gave his opponents an honorable death in hand-to-hand combat. However, organizational advancements and the trend toward killing from a safe distance, relying more and more upon autonomous weapon systems, made Nestor‘s fi ghting style obsolete. As part of the social program, Nestor was to be retrained as drone monitoring personnel. Instead, he quit and became an assassin. Now he is able to use his individual skill set effectively and with pride, killing his victims face to face.",
+  "at": {
+   "str": 4,
+   "agi": 4,
+   "mel": 4,
+   "ran": 4,
+   "tec": 1,
+   "cha": 1
+  },
+  "items": {
+   "R": "Laser rifl e RG 2+, 4 Fire, A2 (5¢)",
+   "L": "Elite knife ML 4+, 3 (5¢)",
+   "1": "Stimpack / U: Regenerate 3 HP (2¢)",
+   "2": "Stimpack / U: Regenerate 3 HP (2¢)"
+  },
+  "traits": [
+   "Warrior",
+   "Aggressive",
+   "Maniac"
+  ]
+ },
+ {
+  "name": "Slurp",
+  "role": "Support",
+  "story": "Having an extraterrestrial alien on board is of great benefi t. If you can provide between 4 and 6 cups of warm instant noodles per day, she will follow your squad anywhere. She speaks 27 languages fl uently and loves traveling and sightseeing. She often does stupid things but even if she gets hurt, she can regenerate faster than any human. She hates fi re and aside from her language skills she’s not really a fast learner. She is also able to trade with other aliens quite well, so it is often a good idea to send her fi rst into a market or shop. Her name can´t be pronounced by humans so somebody came up with the idea to give her this awesome nickname.",
+  "at": {
+   "str": 2,
+   "agi": 1,
+   "mel": 1,
+   "ran": 1,
+   "tec": 5,
+   "cha": 6
+  },
+  "items": {
+   "R": "Knife ML 5+, 2 (2¢)",
+   "L": "Fast",
+   "1": "Instant noodles / U6: Regenerate 1 HP (1¢)"
+  },
+  "traits": [
+   "Fast regeneration",
+   "Merchant",
+   "Slow learner",
+   "Weakness Fire"
+  ]
+ },
+ {
+  "name": "Melhilion",
+  "role": "Leader",
+  "story": "Melhilion left Germany after teaching for ten years at a German high school. The astronaut training program hired him and, after setting up a unique learning plan and method, taught dozens of trainees. He is quite charismatic and the many connections he gathered in space programs all over the world provided him a position to plan his own departure with one of the last ships. Furthermore, he loves board games and is a close friend of Markus.",
+  "at": {
+   "str": 3,
+   "agi": 3,
+   "mel": 1,
+   "ran": 2,
+   "tec": 1,
+   "cha": 6
+  },
+  "items": {
+   "R": "Shotgun RG 3+, 5 T2, A3 (2¢) S S S",
+   "L": "M M M",
+   "1": "Scanner Scanner Scanner / / / Reroll Reroll Reroll Minion Minion Minion spawn spawn spawn check check check once once once per per per c.(2¢) c.(2 c.(2¢ E E E ¢) )",
+   "2": "T T T",
+   "3": "I I I"
+  },
+  "traits": [
+   "Distractor",
+   "Team player"
+  ]
+ }
+]

@@ -1,0 +1,1218 @@
+[
+ {
+  "name": "Tentacle",
+  "sp": "Kraken",
+  "lv": 1,
+  "ag": "2",
+  "ar": "1",
+  "es": "2",
+  "shT": "-",
+  "wk": "Fire",
+  "rs": "-",
+  "xp": "1",
+  "tr": "1",
+  "act": [
+   [
+    "1-4",
+    "Strangle Attack: ML 4+, 2"
+   ],
+   [
+    "5-6",
+    "Recover 2 HP, if full HP reroll"
+   ]
+  ],
+  "sp2": "Swarm",
+  "hp": 7,
+  "sh": 0
+ },
+ {
+  "name": "Nautilus",
+  "sp": "Kraken",
+  "lv": 2,
+  "ag": "5",
+  "ar": "2",
+  "es": "-",
+  "shT": "-",
+  "wk": "Fire, Toxic",
+  "rs": "-",
+  "xp": "2",
+  "tr": "2",
+  "act": [
+   [
+    "1-4",
+    "Strangle Attack: ML 4+, 3"
+   ],
+   [
+    "5-6",
+    "Idle (Try to hide in black smoke)"
+   ]
+  ],
+  "sp2": "2 Actions",
+  "hp": 12,
+  "sh": 0
+ },
+ {
+  "name": "Braintacle",
+  "sp": "Kraken",
+  "lv": 3,
+  "ag": "7",
+  "ar": "-",
+  "es": "-",
+  "shT": "B",
+  "wk": "Fire",
+  "rs": "-",
+  "xp": "3",
+  "tr": "3",
+  "act": [
+   [
+    "1-3",
+    "PSI Attack: RG 4+, 3 IS IA"
+   ],
+   [
+    "4-5",
+    "EMP Blaster: RG 3+, 3 EX EMP"
+   ],
+   [
+    "6",
+    "Idle (Flashing in strange colors)"
+   ]
+  ],
+  "sp2": "Shields up 2",
+  "hp": 4,
+  "sh": 13
+ },
+ {
+  "name": "Cyberkraken",
+  "sp": "Kraken",
+  "lv": 4,
+  "ag": "4",
+  "ar": "3",
+  "es": "-",
+  "shT": "-",
+  "wk": "-",
+  "rs": "-",
+  "xp": "5",
+  "tr": "4",
+  "act": [
+   [
+    "1-4",
+    "Tentacle: ML 4+, 5 IS AP"
+   ],
+   [
+    "5",
+    "Rage: ML 5+, 5 EX IS AP"
+   ],
+   [
+    "6",
+    "Recover 2 HP, if full HP reroll"
+   ]
+  ],
+  "sp2": "Parry 1, Zombie 3",
+  "hp": 17,
+  "sh": 0
+ },
+ {
+  "name": "Behemoth",
+  "sp": "Kraken",
+  "lv": 5,
+  "ag": "4",
+  "ar": "6",
+  "es": "-",
+  "shT": "-",
+  "wk": "Fire",
+  "rs": "-",
+  "xp": "8",
+  "tr": "5",
+  "act": [
+   [
+    "1-3",
+    "Tentacle: ML 4+, 11"
+   ],
+   [
+    "4-5",
+    "Rage: ML 5+, 6 EX"
+   ],
+   [
+    "6",
+    "Recover 2 HP, if full HP reroll"
+   ]
+  ],
+  "sp2": "Regen 2, Smoke 2",
+  "hp": 13,
+  "sh": 0
+ },
+ {
+  "name": "Kraken",
+  "sp": "Kraken",
+  "lv": 6,
+  "ag": "8",
+  "ar": "6",
+  "es": "-",
+  "shT": "B",
+  "wk": "Fire",
+  "rs": "-",
+  "xp": "10",
+  "tr": "6",
+  "act": [
+   [
+    "1-3",
+    "Tentacle: ML 4+, 13"
+   ],
+   [
+    "4-5",
+    "Rage: ML 5+, 8 EX"
+   ],
+   [
+    "6",
+    "Recover 4 HP, if full HP reroll"
+   ]
+  ],
+  "sp2": "2 Actions, Zombie 7",
+  "hp": 18,
+  "sh": 13
+ },
+ {
+  "name": "Sweety",
+  "sp": "Grey",
+  "lv": 1,
+  "ag": "4",
+  "ar": "-",
+  "es": "2",
+  "shT": "-",
+  "wk": "Melee",
+  "rs": "-",
+  "xp": "1",
+  "tr": "1",
+  "act": [
+   [
+    "1-4",
+    "Laser Rifl e: RG 4+, 2"
+   ],
+   [
+    "5",
+    "Idle (Looks like it is reloading Weapons)"
+   ],
+   [
+    "6",
+    "Recover 2 HP, if full HP reroll"
+   ]
+  ],
+  "sp2": "Theft",
+  "hp": 6,
+  "sh": 0
+ },
+ {
+  "name": "Hitman",
+  "sp": "Grey",
+  "lv": 2,
+  "ag": "6",
+  "ar": "1",
+  "es": "2",
+  "shT": "A",
+  "wk": "Melee",
+  "rs": "-",
+  "xp": "2",
+  "tr": "3",
+  "act": [
+   [
+    "1-4",
+    "Double Attack: RG 5+, 2x3 Ice"
+   ],
+   [
+    "5",
+    "EMP Grenade: RG 3+, 3 EX EMP"
+   ],
+   [
+    "6",
+    "Grenade: RG 4+, 3"
+   ]
+  ],
+  "sp2": "Smoke 2, Theft",
+  "hp": 11,
+  "sh": 6
+ },
+ {
+  "name": "Omega",
+  "sp": "Grey",
+  "lv": 3,
+  "ag": "8",
+  "ar": "2",
+  "es": "-",
+  "shT": "A",
+  "wk": "Ice, Toxic",
+  "rs": "Fire",
+  "xp": "3",
+  "tr": "3",
+  "act": [
+   [
+    "1-2",
+    "Claw: ML 5+, 2x4"
+   ],
+   [
+    "3-4",
+    "Plasma Blaster: RG 3+, 5 Ice"
+   ],
+   [
+    "5",
+    "Recover 2 HP, if full HP reroll"
+   ],
+   [
+    "6",
+    "Recover 2 Shield Energy"
+   ]
+  ],
+  "sp2": "Shields up 2",
+  "hp": 7,
+  "sh": 8
+ },
+ {
+  "name": "Controller",
+  "sp": "Grey",
+  "lv": 4,
+  "ag": "8",
+  "ar": "2",
+  "es": "-",
+  "shT": "A",
+  "wk": "Ice",
+  "rs": "Fire",
+  "xp": "5",
+  "tr": "4",
+  "act": [
+   [
+    "1-2",
+    "PSI Blast: RG 5+, 2 EX IS IA"
+   ],
+   [
+    "3-4",
+    "PSI Slash: ML 4+, 4 IS IA"
+   ],
+   [
+    "5",
+    "EMP Shock: RG 3+, 3 EX EMP"
+   ],
+   [
+    "6",
+    "Recover 5 Shield Energy"
+   ]
+  ],
+  "sp2": "2 Actions, Parry 2",
+  "hp": 12,
+  "sh": 13
+ },
+ {
+  "name": "Destroyer",
+  "sp": "Grey",
+  "lv": 5,
+  "ag": "9",
+  "ar": "4",
+  "es": "-",
+  "shT": "B",
+  "wk": "Ice",
+  "rs": "Fire",
+  "xp": "8",
+  "tr": "5",
+  "act": [
+   [
+    "1-2",
+    "Heavy Plasma: RG 4+, 6 Ice"
+   ],
+   [
+    "3-4",
+    "Nano Claw: ML 4+, 6 IS AP"
+   ],
+   [
+    "5",
+    "Recover 2 HP, if full HP reroll"
+   ],
+   [
+    "6",
+    "Recover 3 Shield Energy"
+   ]
+  ],
+  "sp2": "2 Actions, Tank",
+  "hp": 13,
+  "sh": 9
+ },
+ {
+  "name": "Alpha",
+  "sp": "Grey",
+  "lv": 6,
+  "ag": "9",
+  "ar": "6",
+  "es": "-",
+  "shT": "B",
+  "wk": "Ice",
+  "rs": "Fire",
+  "xp": "10",
+  "tr": "6",
+  "act": [
+   [
+    "1-3",
+    "PSI Blast: RG 4+, 7 IS AP"
+   ],
+   [
+    "4",
+    "Idle (Reload PSI Powers)"
+   ],
+   [
+    "5",
+    "Recover 3 HP, if full HP reroll"
+   ],
+   [
+    "6",
+    "Recover 5 Shield Energy"
+   ]
+  ],
+  "sp2": "2 Action, Tough 3",
+  "hp": 18,
+  "sh": 16
+ },
+ {
+  "name": "Harakiri",
+  "sp": "Insectoid",
+  "lv": 1,
+  "ag": "6",
+  "ar": "-",
+  "es": "2",
+  "shT": "-",
+  "wk": "Ice",
+  "rs": "Melee",
+  "xp": "1",
+  "tr": "1",
+  "act": [
+   [
+    "1-4",
+    "Attack: ML 4+, 2"
+   ],
+   [
+    "5",
+    "Angry Attack: ML 4+, 3"
+   ],
+   [
+    "6",
+    "Idle (Buzzing around)"
+   ]
+  ],
+  "sp2": "Evade",
+  "hp": 4,
+  "sh": 0
+ },
+ {
+  "name": "Scribid",
+  "sp": "Insectoid",
+  "lv": 2,
+  "ag": "2",
+  "ar": "2",
+  "es": "-",
+  "shT": "-",
+  "wk": "Toxic",
+  "rs": "Fire",
+  "xp": "2",
+  "tr": "1",
+  "act": [
+   [
+    "1-4",
+    "Bite: ML 5+, 4"
+   ],
+   [
+    "5",
+    "Recover 2 HP, if full HP reroll"
+   ],
+   [
+    "6",
+    "Rampage: ML 4+, 2 EX Fire"
+   ]
+  ],
+  "sp2": "Acid",
+  "hp": 10,
+  "sh": 0
+ },
+ {
+  "name": "Craboid",
+  "sp": "Insectoid",
+  "lv": 3,
+  "ag": "5",
+  "ar": "3",
+  "es": "-",
+  "shT": "-",
+  "wk": "Toxic",
+  "rs": "Fire, Melee",
+  "xp": "3",
+  "tr": "3",
+  "act": [
+   [
+    "1-3",
+    "Forceps: ML 4+, 4"
+   ],
+   [
+    "4-5",
+    "Rage: ML 4+, 2x3"
+   ],
+   [
+    "6",
+    "Recover 2 HP, if full HP reroll"
+   ]
+  ],
+  "sp2": "Guard 2",
+  "hp": 11,
+  "sh": 0
+ },
+ {
+  "name": "Extick",
+  "sp": "Insectoid",
+  "lv": 4,
+  "ag": "2",
+  "ar": "2",
+  "es": "-",
+  "shT": "-",
+  "wk": "Fire",
+  "rs": "Melee",
+  "xp": "5",
+  "tr": "4",
+  "act": [
+   [
+    "1-2",
+    "Blow up: RG 3+, 5 EX Toxic"
+   ],
+   [
+    "3-6",
+    "Idle"
+   ]
+  ],
+  "sp2": "Kamikaze",
+  "hp": 18,
+  "sh": 0
+ },
+ {
+  "name": "Firefly",
+  "sp": "Insectoid",
+  "lv": 5,
+  "ag": "8",
+  "ar": "4",
+  "es": "-",
+  "shT": "-",
+  "wk": "Melee",
+  "rs": "-",
+  "xp": "8",
+  "tr": "5",
+  "act": [
+   [
+    "1-4",
+    "Toxic Splatter: RG 4+, 8 Toxic"
+   ],
+   [
+    "5",
+    "Recover 3 HP, if full HP reroll"
+   ],
+   [
+    "6",
+    "Idle (Make strange sounds)"
+   ]
+  ],
+  "sp2": "Burning 2, Flash",
+  "hp": 13,
+  "sh": 0
+ },
+ {
+  "name": "Oxoid",
+  "sp": "Insectoid",
+  "lv": 6,
+  "ag": "4",
+  "ar": "7",
+  "es": "3",
+  "shT": "-",
+  "wk": "Melee",
+  "rs": "Toxic",
+  "xp": "10",
+  "tr": "6",
+  "act": [
+   [
+    "1-2",
+    "Toxic Splatter: RG 4+, 8 IS Toxic"
+   ],
+   [
+    "3-4",
+    "Crawl: ML 5+, 6 EX Toxic"
+   ],
+   [
+    "5-6",
+    "Recover 6 HP, if full HP reroll"
+   ]
+  ],
+  "sp2": "Acid, Parasite",
+  "hp": 18,
+  "sh": 0
+ },
+ {
+  "name": "Muhl",
+  "sp": "Lost",
+  "lv": 1,
+  "ag": "4",
+  "ar": "1",
+  "es": "-",
+  "shT": "A",
+  "wk": "Ranged",
+  "rs": "Toxic, Melee",
+  "xp": "1",
+  "tr": "1",
+  "act": [
+   [
+    "1",
+    "Idle (Reload Blaster)"
+   ],
+   [
+    "2-3",
+    "Blaster: RG 4+, 3 EX"
+   ],
+   [
+    "4-5",
+    "EMP Grenade: RG 4+, 5 EX EMP"
+   ],
+   [
+    "6",
+    "Recover 2 Shield Energy"
+   ]
+  ],
+  "sp2": "Explosive 3",
+  "hp": 5,
+  "sh": 2
+ },
+ {
+  "name": "Humanlike",
+  "sp": "Lost",
+  "lv": 2,
+  "ag": "7",
+  "ar": "1",
+  "es": "-",
+  "shT": "A",
+  "wk": "Ranged",
+  "rs": "Melee",
+  "xp": "2",
+  "tr": "2",
+  "act": [
+   [
+    "1-3",
+    "Laser: RG 4+, 4 AP Fire"
+   ],
+   [
+    "4",
+    "Recover 2 Shield Energy"
+   ],
+   [
+    "5",
+    "Heal all other allies 2 HP"
+   ],
+   [
+    "6",
+    "Recover 3 HP, if full HP reroll"
+   ]
+  ],
+  "sp2": "Parry 2",
+  "hp": 12,
+  "sh": 9
+ },
+ {
+  "name": "Quasma",
+  "sp": "Lost",
+  "lv": 3,
+  "ag": "5",
+  "ar": "3",
+  "es": "2",
+  "shT": "B",
+  "wk": "Ranged",
+  "rs": "Toxic",
+  "xp": "3",
+  "tr": "3",
+  "act": [
+   [
+    "1-2",
+    "Plasma Tentacle: ML 4+, 6 Fire"
+   ],
+   [
+    "3-4",
+    "Plasma Ray: RG 5+, 4 Fire"
+   ],
+   [
+    "5-6",
+    "Recover 4 Shield Energy"
+   ]
+  ],
+  "sp2": "Energizer 2",
+  "hp": 5,
+  "sh": 13
+ },
+ {
+  "name": "Atupal",
+  "sp": "Lost",
+  "lv": 4,
+  "ag": "4",
+  "ar": "3",
+  "es": "-",
+  "shT": "B",
+  "wk": "Melee",
+  "rs": "-",
+  "xp": "5",
+  "tr": "4",
+  "act": [
+   [
+    "1-3",
+    "Fusion Beam: RG 4+, 6 AP Fire"
+   ],
+   [
+    "4-5",
+    "Long Beam: RG 5+, 4 EX AP Fire"
+   ],
+   [
+    "6",
+    "Idle (Charging Weapons)"
+   ]
+  ],
+  "sp2": "Shields up 8, Passive",
+  "hp": 12,
+  "sh": 18
+ },
+ {
+  "name": "Guardian",
+  "sp": "Lost",
+  "lv": 5,
+  "ag": "4",
+  "ar": "4",
+  "es": "-",
+  "shT": "B",
+  "wk": "Ranged",
+  "rs": null,
+  "xp": "8",
+  "tr": "5",
+  "act": [
+   [
+    "1-2",
+    "Shield Dash: ML 4+, 6 IS AP"
+   ],
+   [
+    "3-4",
+    "Recover 5 HP, if full HP reroll"
+   ],
+   [
+    "5-6",
+    "Recover 5 Shield Energy"
+   ]
+  ],
+  "sp2": "Guard 3",
+  "hp": 17,
+  "sh": 18
+ },
+ {
+  "name": "Rage",
+  "sp": "Lost",
+  "lv": 6,
+  "ag": "9",
+  "ar": "2",
+  "es": "-",
+  "shT": "B",
+  "wk": "Toxic",
+  "rs": "Fire",
+  "xp": "10",
+  "tr": "6",
+  "act": [
+   [
+    "1-2",
+    "Rampage: ML 5+, 5 EX IS"
+   ],
+   [
+    "3-4",
+    "Death Claws: ML 3+, 2x5 IS AP"
+   ],
+   [
+    "5-6",
+    "Recover 4 Shield Energy"
+   ]
+  ],
+  "sp2": "2 Actions, Tough 2",
+  "hp": 14,
+  "sh": 17
+ },
+ {
+  "name": "Galbert",
+  "sp": "Beasts",
+  "lv": 1,
+  "ag": "6",
+  "ar": "-",
+  "es": "-",
+  "shT": "A",
+  "wk": "Toxic",
+  "rs": "",
+  "xp": "1",
+  "tr": "1",
+  "act": [
+   [
+    "1-5",
+    "Jelly Nettles: ML 5+, 3 Toxic"
+   ],
+   [
+    "6",
+    "Recover full HP"
+   ]
+  ],
+  "sp2": "Absorber",
+  "hp": 6,
+  "sh": 8
+ },
+ {
+  "name": "Iceflake",
+  "sp": "Beasts",
+  "lv": 2,
+  "ag": "8",
+  "ar": "1",
+  "es": "3",
+  "shT": "-",
+  "wk": "Toxic",
+  "rs": "Ranged",
+  "xp": "2",
+  "tr": "2xLV1",
+  "act": [
+   [
+    "1-3",
+    "Ice Claws: ML 4+, 4 AP Ice"
+   ],
+   [
+    "4-5",
+    "Ice Needles: RG 5+, 3 EX AP Ice"
+   ],
+   [
+    "6",
+    "Idle (Screeches)"
+   ]
+  ],
+  "sp2": "Predator, Swarm",
+  "hp": 15,
+  "sh": 0
+ },
+ {
+  "name": "Ethereal",
+  "sp": "Beasts",
+  "lv": 3,
+  "ag": "5",
+  "ar": "-",
+  "es": "-",
+  "shT": "-",
+  "wk": "-",
+  "rs": "-",
+  "xp": "4",
+  "tr": "2xLV2",
+  "act": [
+   [
+    "1-3",
+    "Burning Claws: ML 5+, 2x4 Fire"
+   ],
+   [
+    "4-5",
+    "Fire Edema: RG 5+, 3 EX AP Fire"
+   ],
+   [
+    "6",
+    "Recover 1 HP"
+   ]
+  ],
+  "sp2": "Ethereal",
+  "hp": 4,
+  "sh": 0
+ },
+ {
+  "name": "Od Ii",
+  "sp": "Beasts",
+  "lv": 4,
+  "ag": "4",
+  "ar": "3",
+  "es": "-",
+  "shT": "-",
+  "wk": "Toxic",
+  "rs": "Ranged",
+  "xp": "5",
+  "tr": "2xLV3",
+  "act": [
+   [
+    "1-2",
+    "Tentacle Strike: ML 4+, 7"
+   ],
+   [
+    "3-4",
+    "Tentacle Lance: ML 5+, 8 AP"
+   ],
+   [
+    "5-6",
+    "Recover 4 HP, if full HP reroll"
+   ]
+  ],
+  "sp2": "Tentacles, Vampire",
+  "hp": 16,
+  "sh": 0
+ },
+ {
+  "name": "Fire Berserk",
+  "sp": "Beasts",
+  "lv": 5,
+  "ag": "5",
+  "ar": "5",
+  "es": "-",
+  "shT": "-",
+  "wk": "Ice",
+  "rs": "Ranged",
+  "xp": "10",
+  "tr": "2xLV4",
+  "act": [
+   [
+    "1-4",
+    "Punch: ML 3+, 8 IS"
+   ],
+   [
+    "5",
+    "Stomp: ML 4+, 5 EX IS"
+   ],
+   [
+    "6",
+    "Recover 5 HP, if full HP reroll"
+   ]
+  ],
+  "sp2": "Burning 3, Smoke 2",
+  "hp": 14,
+  "sh": 0
+ },
+ {
+  "name": "Gargon",
+  "sp": "Beasts",
+  "lv": 6,
+  "ag": "8",
+  "ar": "5",
+  "es": "2",
+  "shT": "B",
+  "wk": "Ice",
+  "rs": "Ranged",
+  "xp": "12",
+  "tr": "2xLV5",
+  "act": [
+   [
+    "1-3",
+    "Zero Ray: RG 3+, 7 AP Fire"
+   ],
+   [
+    "4",
+    "Nano Fire: RG 3+, 6 EX EMP"
+   ],
+   [
+    "5",
+    "Recover 3 HP, if full HP reroll"
+   ],
+   [
+    "6",
+    "Recover 3 Shield Energy"
+   ]
+  ],
+  "sp2": "2 Actions, Zombie 7",
+  "hp": 19,
+  "sh": 13
+ },
+ {
+  "name": "Servant",
+  "sp": "Renegades",
+  "lv": 1,
+  "ag": "4",
+  "ar": "-",
+  "es": "-",
+  "shT": "-",
+  "wk": "Ice",
+  "rs": "-",
+  "xp": "1",
+  "tr": "1",
+  "act": [
+   [
+    "1-4",
+    "Laser Pistol: RG 5+, 3"
+   ],
+   [
+    "5",
+    "Kick: ML 4+, 2"
+   ],
+   [
+    "6",
+    "Recover 3 HP"
+   ]
+  ],
+  "sp2": "-",
+  "hp": 7,
+  "sh": 0
+ },
+ {
+  "name": "Cyborg",
+  "sp": "Renegades",
+  "lv": 2,
+  "ag": "2",
+  "ar": "2",
+  "es": "1",
+  "shT": "-",
+  "wk": "Ice, Toxic",
+  "rs": "-",
+  "xp": "2",
+  "tr": "2",
+  "act": [
+   [
+    "1-4",
+    "Heavy Laser: RG 4+, 3"
+   ],
+   [
+    "5-6",
+    "Laser Array: RG 5+, 3 EX"
+   ]
+  ],
+  "sp2": "Tough 3",
+  "hp": 13,
+  "sh": 0
+ },
+ {
+  "name": "Shadow",
+  "sp": "Renegades",
+  "lv": 3,
+  "ag": "9",
+  "ar": "1",
+  "es": "-",
+  "shT": "B",
+  "wk": "Toxic",
+  "rs": "Fire",
+  "xp": "4",
+  "tr": "2",
+  "act": [
+   [
+    "1-3",
+    "Plasma Blaster: RG 3+, 5 Fire"
+   ],
+   [
+    "4-5",
+    "Claws: ML 4+, 4 Toxic"
+   ],
+   [
+    "6",
+    "Recover 3 HP"
+   ]
+  ],
+  "sp2": "Evade",
+  "hp": 7,
+  "sh": 5
+ },
+ {
+  "name": "Scientist",
+  "sp": "Renegades",
+  "lv": 4,
+  "ag": "4",
+  "ar": "2",
+  "es": "-",
+  "shT": "B",
+  "wk": "Toxic, Ranged",
+  "rs": "-",
+  "xp": "4",
+  "tr": "4",
+  "act": [
+   [
+    "1-3",
+    "Experimental Blaster: RG 3+, 7 IS AP"
+   ],
+   [
+    "4-5",
+    "Idle (Recharge Blaster)"
+   ],
+   [
+    "6",
+    "Recover 5 Shield Energy"
+   ]
+  ],
+  "sp2": "Regen 2",
+  "hp": 11,
+  "sh": 14
+ },
+ {
+  "name": "Executor",
+  "sp": "Renegades",
+  "lv": 5,
+  "ag": "5",
+  "ar": "6",
+  "es": "-",
+  "shT": "B",
+  "wk": "Toxic",
+  "rs": "Ice",
+  "xp": "9",
+  "tr": "5",
+  "act": [
+   [
+    "1-3",
+    "Execute: ML 5+, 9 IS AP"
+   ],
+   [
+    "4",
+    "Idle (Charge)"
+   ],
+   [
+    "5",
+    "Recover 4 Shield Energy"
+   ],
+   [
+    "6",
+    "Recover 4 HP"
+   ]
+  ],
+  "sp2": "Tank, Guard 2",
+  "hp": 13,
+  "sh": 4
+ },
+ {
+  "name": "Queen",
+  "sp": "Renegades",
+  "lv": 6,
+  "ag": "8",
+  "ar": "5",
+  "es": "-",
+  "shT": "B",
+  "wk": "Ice",
+  "rs": "-",
+  "xp": "12",
+  "tr": "6",
+  "act": [
+   [
+    "1-3",
+    "PSI Lightning: RG 5+, 6 EX Fire"
+   ],
+   [
+    "4-5",
+    "PSI Beam: RG 4+, 10 AP Fire"
+   ],
+   [
+    "6",
+    "Idle (Screams)"
+   ]
+  ],
+  "sp2": "2 Actions, Evade",
+  "hp": 18,
+  "sh": 17
+ },
+ {
+  "name": "SOUL REAPER",
+  "sp": "Hell",
+  "lv": 7,
+  "ag": "12",
+  "ar": "6",
+  "es": "-",
+  "shT": "-",
+  "wk": "-",
+  "rs": "Melee",
+  "xp": "32",
+  "tr": "-",
+  "act": [
+   [
+    "1",
+    "Grin evilly and recover 3 HP, if full HP reroll"
+   ],
+   [
+    "2-5",
+    "Drain souls: ML 1+, 1 EX IS IA"
+   ],
+   [
+    "6",
+    "Catch a soul: ML 5+, 20 IS IA"
+   ]
+  ],
+  "sp2": "Tentacles, Flash, Parry 4, Smoke 4",
+  "hp": 13,
+  "sh": 0
+ },
+ {
+  "name": "UNHOLY DRAGON",
+  "sp": "Hell",
+  "lv": 7,
+  "ag": "9",
+  "ar": "6",
+  "es": "-",
+  "shT": "B",
+  "wk": "Fire",
+  "rs": "Ranged",
+  "xp": "16",
+  "tr": "3x 6",
+  "act": [
+   [
+    "1-3",
+    "Death Ray: RG 3+, 10 AP Ice"
+   ],
+   [
+    "4",
+    "EMP Shock: RG 3+, 6 EX EMP"
+   ],
+   [
+    "5",
+    "Recover 5 HP, if full HP reroll"
+   ],
+   [
+    "6",
+    "Recover 5 Shield Energy"
+   ]
+  ],
+  "sp2": "",
+  "hp": 18,
+  "sh": 13
+ },
+ {
+  "name": "SPACE GALLERT",
+  "sp": "Hell",
+  "lv": 7,
+  "ag": "3",
+  "ar": "1",
+  "es": "-",
+  "shT": "-",
+  "wk": "-",
+  "rs": "Fire",
+  "xp": "26",
+  "tr": "5",
+  "act": [
+   [
+    "1-2",
+    "Strangle: ML 5+, 5 IS AP"
+   ],
+   [
+    "3-4",
+    "Nettles: ML 4+, 4 EX IS AP"
+   ],
+   [
+    "5-6",
+    "Absorb: You must destroy one Item or Weapon"
+   ]
+  ],
+  "sp2": "Burning 1, Regen 2, Tough 2",
+  "hp": 13,
+  "sh": 0
+ },
+ {
+  "name": "PENTAGRON",
+  "sp": "Hell",
+  "lv": 7,
+  "ag": "6",
+  "ar": "1",
+  "es": "-",
+  "shT": "-",
+  "wk": "Fire",
+  "rs": "Ranged",
+  "xp": "2",
+  "tr": "6",
+  "act": [
+   [
+    "1",
+    "Drain: A random Hero permanently loses 1"
+   ],
+   [
+    "2-4",
+    "Sleep: Only activate one Hero next turn"
+   ],
+   [
+    "5-6",
+    "Insanity: Lose 1d6 Experience Points"
+   ]
+  ],
+  "sp2": "2 Actions, Burning 1, Tough 2, Zombie 3",
+  "hp": 18,
+  "sh": 0
+ }
+]
