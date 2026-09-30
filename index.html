@@ -1075,7 +1075,7 @@ function spaceRound(escape) {
   const win = s.en.every(e=>e.hp<=0)||tl==='V';
   if(s.sp<=0){G.sp=null;G.phase='over';G.overMsg='ยานถูกทำลาย';gSet({phase:'over',sp:null,overMsg:G.overMsg,log:G.log});return;}
   if(win){const x=FLIGHT[s.no]?.xp||10;G.xp+=x;G.credits+=x;pushLog('ชนะ Space Combat +'+x,'ok');G.sp=null;genLoc();return;}
-  if(tl==='G'){G.sp=null;G.phase='over';G.overMsg='ยานระเบิด';await gSet({phase:'over',sp:null,overMsg:G.overMsg,log:G.log});return;}
+  if(tl==='G'){G.sp=null;G.phase='over';G.overMsg='ยานระเบิด';gSet({phase:'over',sp:null,overMsg:G.overMsg,log:G.log});return;}
   const shr=shipSh().r; s.sh=Math.min(shipSh().c,s.sh+shr);
   gSet({ sp:s, xp:G.xp, credits:G.credits, log:G.log });
 }
